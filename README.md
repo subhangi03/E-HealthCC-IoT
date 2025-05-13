@@ -11,4 +11,5 @@ By combining AI-driven disease prediction, IoT-based voice input, and cloud inte
 ### Here is the IoT setup:
 ![A working INMP441 microphone connected to an ESP32-S microcontoller](result_images/image.png)
 ### Here is the output:
-![On receiving the symptoms in a voice input we get these results](result_images\codeimg.jpg)
+![On receiving the symptoms in a voice input we get these results](result_images/codeimg.jpg)
+
